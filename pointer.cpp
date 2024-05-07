@@ -27,4 +27,6 @@ class segitiga{
 int main(){
     persegiPanjang pp;
     segitiga sg;
+    cout << "Masukkan Panjang: ";
+    cin >> pp.panjang;
 }
