@@ -36,4 +36,5 @@ int main(){
     cout << "Masukkan Alas: ";
     cin >> sg.alas;
     cout << "Luas Persegi Panjang: " << pp.luasPersegiPanjang(pp.panjang, pp.lebar) << endl;
+    cout << "Luas Segitiga: " << sg.luasSegitiga(sg.alas, sg.tinggi) << endl;
 }
